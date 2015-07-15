@@ -1,6 +1,16 @@
-h1{ 
-	color: red; 
+.area{
+	height: 200px;
+	width: 1000px;
+	position: relative;
+	border: 2px dashed black;
+	margin: 40px;
 }
-p{ 
-	color: black; 
+.acdc{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100px;
+	height: 100px;
+	padding: 20px;
+	background-color: #cdb;
 }
